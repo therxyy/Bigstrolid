@@ -1,6 +1,6 @@
 {
-    "name": "Server (Custom)",
+    "name": "rxyystrolid (rxyy)",
     "port": 8080,
-    "addr": "localhost",
+    "addr": "https://bigstrolid.herokuapp.com/",
     "root_addr": "ws://198.199.109.223:88"
 }
