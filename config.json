@@ -1,6 +1,6 @@
 {
     "name": "rxyystrolid (rxyy)",
     "port": 8080,
-    "addr": "https://bigstrolid.herokuapp.com/",
+    "addr": "bigstrolid.herokuapp.com/",
     "root_addr": "ws://198.199.109.223:88"
 }
