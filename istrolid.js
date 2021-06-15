@@ -3260,8 +3260,8 @@ zjson - binary json sirelizer with some strange features
     };
 
     Sim.prototype.generateMap = function(mapScale, numComPoints, mapSeed) {
-      this.mapScale = mapScale != null ? mapScale : 1.5;
-      this.numComPoints = numComPoints != null ? numComPoints : 8;
+      this.mapScale = mapScale != null ? mapScale : 3;
+      this.numComPoints = numComPoints != null ? numComPoints : 16;
       this.mapSeed = mapSeed;
       this.numRocks = 60 * this.mapScale;
       return this.regenerateMap();
